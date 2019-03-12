@@ -126,6 +126,14 @@ Governments want Translations
 Human level 
 ====
 
+> "We should be able to do, with a modern computer, about 1 to 2 million words an hour. This would be quite an adequate speed to cope with the whole output of the Soviet Union. It's just a few hours computer time a week ... 
+> If our experiment goes well, [we'll be able to achieve the speed], in about 5 years or so.
+>
+> "Yes, [it means the end of human translators], for translators for scientific and technical material but as regards poetry and novel, no I don't think we'll ever replace these translators"
+> 
+> \- ["The Thinking Machine" (1960s)](https://www.youtube.com/watch?v=aygSMgK3BEM)
+
+
 > **tl;dr**
 >
 > Thanks to increasingly advanced neural network techniques and large amounts of data, translations by NMT systems can often sound fluent and human-like. But despite this seemingly impressive state of affairs, NMT is still far from reliable. 
