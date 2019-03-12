@@ -8,12 +8,17 @@ Navigation
    - [eBay Translate](#ebay-translate)
    - [Naver Translate](#naver-translate)
    
+   
  - [The Language Services Market (2016-2018)](#the-language-services-market)
  - [The Volvo Incident (2008)](#the-volvo-incident)
  
  - [Managing expectation](#managing-expectation)
  - [All your data belongs to me](#all-your-data-belongs-to-me)
  - [Governments want Translations](#governments-want-translations)
+ 
+ - [Human level?](#human-level)
+ 
+ - [Holy Grail: Speech to Speech](#speech-to-speech-translation)
 
 
 Google Translate
@@ -116,3 +121,22 @@ Governments want Translations
 > It is planning to allocate ¥1.38 billion in fiscal 2015 to improve the overall quality of real-time speech translation technology and increase the available languages to 10 or more, including Thai, Vietnamese and Indonesian, to cover 90 percent of the tourists who come to Japan."*
 >
 > \- [Shusuke Murai (2015)](https://www.japantimes.co.jp/news/2015/03/31/reference/translation-tech-gets-olympic-push)
+
+
+Human level 
+====
+
+> **tl;dr**
+>
+> Thanks to increasingly advanced neural network techniques and large amounts of data, translations by NMT systems can often sound fluent and human-like. But despite this seemingly impressive state of affairs, NMT is still far from reliable. 
+> \- [Sharon Zhou (2018)](https://www.skynettoday.com/editorials/state_of_nmt)
+
+
+
+Speech to Speech Translation
+====
+
+- "Babel Fish earbuds: Has Google done for Danny?" - [Rory Cellan-Jones (2018)](https://www.bbc.com/news/technology-41514284)
+- "Meet Pilot: The world's first smart earpiece which translates between users speaking different langauges" - [Waverly Labs](https://www.indiegogo.com/projects/meet-the-pilot-smart-earpiece-language-translator?utm_source=affiliate&utm_medium=cpc&utm_campaign=sasdeep&utm_content=link&sscid=31k3_9fuwm#/)
+
+- "Ever since we started to speak, we wanted to cross the language boundary" - [Satya Nadella (2014)](https://www.theverge.com/2014/5/27/5756166/microsofts-skype-translator-will-translate-voice-calls-on-the-fly)
