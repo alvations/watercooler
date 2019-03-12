@@ -1,3 +1,11 @@
+Navigation
+====
+
+ - [Google Translate](#google-translate)
+ - [Microsoft Translate](#microsoft-translate)
+ - [Facebook Translate](#facebook-translate)
+ - [eBay Translate](#eBay-translate)
+
 
 
 Google Translate
@@ -38,7 +46,7 @@ eBay Translate
 >
 > \- [Evgeny Matusov (2016)](https://www.ebayinc.com/stories/news/ebays-machine-translation-technology-breaks-down-borders/)
 
-The Language Services Market (2016-2018)
+The Language Services Market 
 ====
 
 > *"People around the world prefer communicating in their native tongue. That fact will drive the language industry to US$40 billion in revenue for 2016."* – [Common Sense Advisory (2016)](https://insights.csa-research.com/reportaction/36540/Marketing)
