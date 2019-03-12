@@ -22,6 +22,9 @@ Facebook Translate
 > \- [Josh Constine (2016)](https://techcrunch.com/2016/05/23/facebook-translation/)
 
 
+eBay Translate
+====
+
 ### eBay’s Machine Translation Technology Breaks Down Borders
 
 > “Machine translation at eBay is key in promoting cross-border trade ... Our buyers can search the site in their native language, but see inventory from far away. ”
