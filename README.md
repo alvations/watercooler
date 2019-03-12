@@ -66,3 +66,19 @@ All your data belongs to me
 >
 > \- [Paul Walentynowicz (n.d.)](http://lingosec.com/wp-content/uploads/lingosec-content_security_study-eng.pdf)
 
+
+
+
+Governments want Translations
+====
+
+Japanese government invested 1.38 billion yen in real-time speech translation work by Panasonic, NTT, KDDI, and NICT 
+
+
+> The [internal affairs] ministry wants to provide real-time machine translation services at sightseeing, shopping and medical venues to help visitors who may feel hesitant about coming to Japan because of the language barrier.
+>
+> The ministry’s vision reflects the government’s tourism goal, which is to raise the annual number of inbound travelers to 20 million by 2020, from 13 million in 2014.
+>
+> It is planning to allocate ¥1.38 billion in fiscal 2015 to improve the overall quality of real-time speech translation technology and increase the available languages to 10 or more, including Thai, Vietnamese and Indonesian, to cover 90 percent of the tourists who come to Japan.
+>
+> \- [Shusuke Murai (2015)](https://www.japantimes.co.jp/news/2015/03/31/reference/translation-tech-gets-olympic-push)
