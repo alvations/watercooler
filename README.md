@@ -9,7 +9,17 @@ Google Translate
 > - *2. There are more than 500 million of you using Google Translate.*
 > - *3. Together we translate more than 100 billion words a day.*
 >
-> \- [Barak Turovsky, 2016](https://blog.google/products/translate/ten-years-of-google-translate/)
+> \- [Barak Turovsky (2016)](https://blog.google/products/translate/ten-years-of-google-translate/)
+
+Facebook Translate
+====
+
+
+### Facebook ditches Bing
+
+> - "Facebook is now serving 2 billion text translations per day. ... when we turned it off for some people, they went nuts!”
+> 
+> \- [Josh Constine (2016)](https://techcrunch.com/2016/05/23/facebook-translation/)
 
 
 The Language Services Market (2016-2018)
@@ -37,7 +47,7 @@ Managing expectation
 
 > *"... it must be clearly emphasised that machine translation is neither a panacea nor an all-purpose tool for every translation task, which might thus be intended to eliminate jobs, but rather for general cost reduction. More importantly, it must be emphasised what machine translation cannot do, and why: for example, certain types of text are not suitable for machine translation or are (or could be) crucial for legal reasons."*
 >
-> \- [Jörg Porsiel, 2017](http://kv-emptypages.blogspot.com/2017/02/machine-translation-at-volkswagen-ag.html) 
+> \- [Jörg Porsiel (2017)](http://kv-emptypages.blogspot.com/2017/02/machine-translation-at-volkswagen-ag.html) 
 
 
 All your data belongs to me 
@@ -45,5 +55,5 @@ All your data belongs to me
 
 > *"While most translators understand the importance of security, these concerns often take a back seat when a deadline is approaching. Translators should understand that all content uploaded to Google Translate or Bing Translator is used by those companies for future translation unit matches and language modeling. "*
 >
-> \- [Paul Walentynowicz, n.d.](http://lingosec.com/wp-content/uploads/lingosec-content_security_study-eng.pdf)
+> \- [Paul Walentynowicz (n.d.)](http://lingosec.com/wp-content/uploads/lingosec-content_security_study-eng.pdf)
 
