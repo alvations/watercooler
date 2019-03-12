@@ -1,5 +1,17 @@
 
 
+Google Translate
+====
+
+### Ten years of Google Translate
+
+> - *1. Google Translate helps people make connections.*
+> - *2. There are more than 500 million of you using Google Translate.*
+> - *3. Together we translate more than 100 billion words a day.*
+>
+> \- [Barak Turovsky, 2016](https://blog.google/products/translate/ten-years-of-google-translate/)
+
+
 The Language Services Market (2016-2018)
 ====
 
@@ -14,6 +26,7 @@ The Volvo Incident (2008)
 ====
 
 > *“In 2008, the Swedish car manufacturer Volvo was found partly to blame for a car accident which killed two school children. The expert engineer appointed by the court criticized the poor translation of a Third-Party Intermediary in the car manual on power-assisted brakes, the expert engineer stated, ‘... there is some cause for highlighting the fact ... that the technical product information EWP S 2631 (D 710) issued by the manufacturer and translated by the import was imprecise and poorly written‘. Volvo was fined 200,000 Euros for involuntary manslaughter and bodily injury . This called for a global concerns when handling terminology translations in technical manuals, especially in current translation workflows that incorporate machine translation with human post-editing.”*
+> 
 > (c.f. [Hoffmeister, 2013](https://www.worldcat.org/title/qualitatssicherung-in-der-technischen-dokumentation-am-beispiel-der-volkswagen-ag-after-sales-technik/oclc/863178607), [Tan, 2016](https://github.com/alvations/Panda-Hyper-Decoder/blob/master/up-till-now.pdf))
 
 Google searches:  https://www.google.com/search?q=volvo+2008+news+manslaughter&oq=volvo+2008+news+manslaughter
@@ -23,12 +36,14 @@ Managing expectation
 ====
 
 > *"... it must be clearly emphasised that machine translation is neither a panacea nor an all-purpose tool for every translation task, which might thus be intended to eliminate jobs, but rather for general cost reduction. More importantly, it must be emphasised what machine translation cannot do, and why: for example, certain types of text are not suitable for machine translation or are (or could be) crucial for legal reasons."*
-> [Jörg Porsiel, 2017](http://kv-emptypages.blogspot.com/2017/02/machine-translation-at-volkswagen-ag.html) 
+>
+> \- [Jörg Porsiel, 2017](http://kv-emptypages.blogspot.com/2017/02/machine-translation-at-volkswagen-ag.html) 
 
 
 All your data belongs to me 
 ====
 
 > *"While most translators understand the importance of security, these concerns often take a back seat when a deadline is approaching. Translators should understand that all content uploaded to Google Translate or Bing Translator is used by those companies for future translation unit matches and language modeling. "*
-> [Paul Walentynowicz, n.d.](http://lingosec.com/wp-content/uploads/lingosec-content_security_study-eng.pdf)
+>
+> \- [Paul Walentynowicz, n.d.](http://lingosec.com/wp-content/uploads/lingosec-content_security_study-eng.pdf)
 
