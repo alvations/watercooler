@@ -92,6 +92,11 @@ Managing expectation
 > \- [Jörg Porsiel (2017)](http://kv-emptypages.blogspot.com/2017/02/machine-translation-at-volkswagen-ag.html) 
 
 
+> "those of us who have seen many paradigms come and go know that overgilding the lily does none of us any good"
+>
+> \- [Andy Way (2018)](https://arxiv.org/pdf/1803.08409.pdf)
+
+
 All your data belongs to me 
 ====
 
