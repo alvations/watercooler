@@ -5,7 +5,8 @@ Navigation
    - [Google Translate](#google-translate)
    - [Microsoft Translate](#microsoft-translate)
    - [Facebook Translate](#facebook-translate)
-   - [eBay Translate](#eBay-translate)
+   - [eBay Translate](#ebay-translate)
+   - [Naver Translate](#naver-translate)
    
  - [The Language Services Market (2016-2018)](#the-language-services-market)
  - [The Volvo Incident (2008)](#the-volvo-incident)
@@ -52,6 +53,16 @@ eBay Translate
 > *“Machine translation at eBay is key in promoting cross-border trade ... Our buyers can search the site in their native language, but see inventory from far away. ”*
 >
 > \- [Evgeny Matusov (2016)](https://www.ebayinc.com/stories/news/ebays-machine-translation-technology-breaks-down-borders/)
+
+
+Naver Translate
+====
+
+ - "In Asia's Battle Of Translation Apps, Everyone's A Loser" - [Elaine Ramirez
+ (2017)](https://www.forbes.com/sites/elaineramirez/2017/02/28/google-translate-vs-papago-in-asias-battle-of-translation-apps-everyones-a-loser)
+ - "Users of Papago can now turn on or off the honorific mode" - [Cho Mu-Hyun (2019)](https://www.zdnet.com/article/naver-adds-korean-honorific-feature-to-its-papago-ai-translation-app/) 
+ 
+
 
 The Language Services Market 
 ====
