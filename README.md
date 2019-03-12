@@ -134,9 +134,7 @@ Human level
 > \- ["The Thinking Machine" (1960s)](https://www.youtube.com/watch?v=aygSMgK3BEM)
 
 
-> **tl;dr**
->
-> Thanks to increasingly advanced neural network techniques and large amounts of data, translations by NMT systems can often sound fluent and human-like. But despite this seemingly impressive state of affairs, NMT is still far from reliable. 
+> **tl;dr** Thanks to increasingly advanced neural network techniques and large amounts of data, translations by NMT systems can often sound fluent and human-like. But despite this seemingly impressive state of affairs, NMT is still far from reliable. 
 > \- [Sharon Zhou (2018)](https://www.skynettoday.com/editorials/state_of_nmt)
 
 
