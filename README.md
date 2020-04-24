@@ -221,3 +221,15 @@ Speech to Speech Translation
 - "Ever since we started to speak, we wanted to cross the language boundary" - [Satya Nadella (2014)](https://www.theverge.com/2014/5/27/5756166/microsofts-skype-translator-will-translate-voice-calls-on-the-fly)
 
 - "Explore the world with ili. Instant offline translation device for travelers" - [ili](https://iamili.com/us/)
+
+
+Translation and Business 
+====
+
+ - https://www.forbes.com/sites/forbestechcouncil/2018/12/06/unlocking-the-business-benefits-of-machine-translation/#41cd90577e1e
+ 
+ COVID-19 and Translation
+ ==== 
+ 
+ - https://better.sg/migrantworkertranslations
+ - https://translatorswithoutborders.org/covid-19
