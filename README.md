@@ -9,6 +9,7 @@ Overview
    - [Naver Translate](#naver-translate)
    - [Amazon Translate](#amazon-translate)
    - [Alibaba Translate](#alibaba-translate)
+   - [DeepL Translate](#deepl-translate)
    
  - [Other Industrial/Startup MT](#other-industrial-startup-mt)
    
@@ -95,7 +96,11 @@ Alibaba Translate
 
  - https://yiqinfu.github.io/posts/machine-translation-chinese-english-june-2018/
 
- 
+
+DeepL Translate
+====
+
+ - https://gigazine.net/news/20200323-deepl-translator-japanese/ and https://gigazine.net/gsc_news/en/20200323-deepl-translator-japanese/ 
 
 The Language Services Market 
 ====
